@@ -48,7 +48,6 @@
   <ItemGroup>
     <Compile Include="Blue.cs" />
     <Compile Include="Blur.cs" />
-    <Compile Include="Brightness.cs" />
     <Compile Include="Canny.cs" />
     <Compile Include="Contrast.cs" />
     <Compile Include="BlackAndWhite1.cs" />
@@ -57,10 +56,6 @@
     <Compile Include="BlackAndWhite4.cs" />
     <Compile Include="Cyan.cs" />
     <Compile Include="Dilation.cs" />
-    <Compile Include="EdgeDetectionDown.cs" />
-    <Compile Include="EdgeDetectionLeft.cs" />
-    <Compile Include="EdgeDetectionRight.cs" />
-    <Compile Include="EdgeDetectionUp.cs" />
     <Compile Include="Erosion.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -107,7 +102,6 @@
     <Compile Include="Red.cs" />
     <Compile Include="Saturation1.cs" />
     <Compile Include="Saturation2.cs" />
-    <Compile Include="Saturation.cs" />
     <Compile Include="Shadows.cs" />
     <Compile Include="Sharpen.cs" />
     <Compile Include="SigmoidNormalization.cs" />
